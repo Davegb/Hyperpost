@@ -1,1 +1,3 @@
 # Hyperpost
+
+Práctica de Git.
